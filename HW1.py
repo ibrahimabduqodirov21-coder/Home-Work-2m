@@ -1,7 +1,4 @@
-from os import strerror
-
-
-class Hero:
+gclass Hero:
     def __init__(self, name, lvl, hp, strenght):
         self.name = name
         self.lvl = lvl
